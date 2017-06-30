@@ -9,7 +9,7 @@ To contribute, please submit a pull request or write to francis@satoshiportal.co
 
 # acknowledgements
 - Peter Todd
-- Riccardo Casseta + Eteriny Wall
+- Riccardo Casseta + Eternity Wall
 
 # license
 LGPL 3
